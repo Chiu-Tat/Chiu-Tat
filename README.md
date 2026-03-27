@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently a third-year PhD student at CUHK. I'm working on robotics, especially in magnetic-actuated robots and modular robots.
+
 <!--
 **Chiu-Tat/Chiu-Tat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
